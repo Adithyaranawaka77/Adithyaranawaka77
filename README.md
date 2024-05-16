@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya Ranawaka</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **adhialpha77@gmail.com**
 
